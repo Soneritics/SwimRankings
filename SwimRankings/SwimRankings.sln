@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimRankings.Api", "SwimRankings.Api\SwimRankings.Api.csproj", "{AE3259FA-D774-4231-B33C-B374F6CE4A34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{CB7E37AB-2A72-4A17-9EC7-FC75E8B38407}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{0E1BC321-9EC4-49A0-8369-BA1716A7006C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FAF64740-94B1-465A-AE45-D4AECC80987E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{DA6D60EE-6330-446D-9C9C-B5ED6C799C51}"
+	ProjectSection(SolutionItems) = preProject
+		..\.github\workflows\main.yml = ..\.github\workflows\main.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimRankings.Api.Tests", "SwimRankings.Api.Tests\SwimRankings.Api.Tests.csproj", "{A9C1494C-F041-4902-90DE-4585DBA1E39E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{D336BDCD-43D7-4098-BAAD-964530DBAB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimRankings.Api.Examples", "SwimRankings.Api.Examples\SwimRankings.Api.Examples.csproj", "{9F60D388-7596-41AB-ADD6-C25BC8BE0046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3259FA-D774-4231-B33C-B374F6CE4A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3259FA-D774-4231-B33C-B374F6CE4A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3259FA-D774-4231-B33C-B374F6CE4A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3259FA-D774-4231-B33C-B374F6CE4A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C1494C-F041-4902-90DE-4585DBA1E39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C1494C-F041-4902-90DE-4585DBA1E39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C1494C-F041-4902-90DE-4585DBA1E39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C1494C-F041-4902-90DE-4585DBA1E39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F60D388-7596-41AB-ADD6-C25BC8BE0046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F60D388-7596-41AB-ADD6-C25BC8BE0046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F60D388-7596-41AB-ADD6-C25BC8BE0046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F60D388-7596-41AB-ADD6-C25BC8BE0046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE3259FA-D774-4231-B33C-B374F6CE4A34} = {0E1BC321-9EC4-49A0-8369-BA1716A7006C}
+		{A9C1494C-F041-4902-90DE-4585DBA1E39E} = {FAF64740-94B1-465A-AE45-D4AECC80987E}
+		{9F60D388-7596-41AB-ADD6-C25BC8BE0046} = {D336BDCD-43D7-4098-BAAD-964530DBAB64}
+	EndGlobalSection
+EndGlobal
