@@ -18,6 +18,9 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v1
 
+      - name: Install Mono
+        run: sudo apt-get install -y mono-complete
+
       - name: Restore dependencies
         run: dotnet restore SwimRankings/SwimRankings.Api/SwimRankings.Api.csproj
           
