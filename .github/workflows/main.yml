@@ -18,11 +18,8 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v1
 
-      - name: Install Mono
-        run: sudo apt-get install -y mono-runtime
-
       - name: Restore dependencies
-        run: nuget restore SwimRankings
+        run: dotnet restore
           
       - name: Build solution and generate NuGet package
         run: dotnet pack SwimRankings/SwimRankings.Api -c Release -o out
