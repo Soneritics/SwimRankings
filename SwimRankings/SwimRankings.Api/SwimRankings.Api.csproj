@@ -4,7 +4,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>SwimRankings.Api</PackageId>
-        <Version>1.0.1</Version>
+        <Version>1.1.0</Version>
         <Authors>Soneritics</Authors>
         <Description>API for fetching data from Swimrankings.com</Description>
         <IsPackable>true</IsPackable>
