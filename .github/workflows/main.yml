@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-dotnet@v1
 
       - name: Restore dependencies
-        run: dotnet restore SwimRankings
+        run: dotnet restore SwimRankings/SwimRankings.Api/SwimRankings.Api.csproj
           
       - name: Build solution and generate NuGet package
         run: dotnet pack SwimRankings/SwimRankings.Api -c Release -o out
