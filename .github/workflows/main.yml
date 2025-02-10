@@ -18,6 +18,9 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v1
 
+      - name: Install Mono
+        run: sudo apt-get install -y mono-runtime
+
       - name: Restore dependencies
         run: nuget restore SwimRankings
           
