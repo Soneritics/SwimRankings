@@ -30,8 +30,12 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "Open Nederlandse Masters Kampioenschappen 2018 lb",
-        "Date": "4 May 2018",
-        "City": "Den Haag"
+        "Date": {
+          "Day": 4,
+          "Month": 5,
+          "Year": 2018
+        },
+        "City": "Den\u00A0Haag"
       }
     },
     {
@@ -44,7 +48,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "9 Mar 2008",
+        "Date": {
+          "Day": 9,
+          "Month": 3,
+          "Year": 2008
+        },
         "City": "Arnhem"
       }
     },
@@ -58,7 +66,11 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "",
-        "Date": "29 May 2005",
+        "Date": {
+          "Day": 29,
+          "Month": 5,
+          "Year": 2005
+        },
         "City": "Nijmegen"
       }
     },
@@ -72,7 +84,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "15 Sep 2007",
+        "Date": {
+          "Day": 15,
+          "Month": 9,
+          "Year": 2007
+        },
         "City": "Veenendaal"
       }
     },
@@ -86,7 +102,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "12 Jan 2019",
+        "Date": {
+          "Day": 12,
+          "Month": 1,
+          "Year": 2019
+        },
         "City": "Wageningen"
       }
     },
@@ -100,7 +120,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "Deel 1 KNZB zwemcompetitie landelijk B/C",
-        "Date": "29 Sep 2007",
+        "Date": {
+          "Day": 29,
+          "Month": 9,
+          "Year": 2007
+        },
         "City": "Doetinchem"
       }
     },
@@ -114,7 +138,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "A. Jansen Lange Afstand Circuit  periode 1",
-        "Date": "8 Dec 2024",
+        "Date": {
+          "Day": 8,
+          "Month": 12,
+          "Year": 2024
+        },
         "City": "Doetinchem"
       }
     },
@@ -128,8 +156,12 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "Open Nederlandse Masters Kampioenschappen 2018 lb",
-        "Date": "4 May 2018",
-        "City": "Den Haag"
+        "Date": {
+          "Day": 4,
+          "Month": 5,
+          "Year": 2018
+        },
+        "City": "Den\u00A0Haag"
       }
     },
     {
@@ -142,7 +174,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "13 Nov 2022",
+        "Date": {
+          "Day": 13,
+          "Month": 11,
+          "Year": 2022
+        },
         "City": "Arnhem"
       }
     },
@@ -156,7 +192,11 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "",
-        "Date": "21 May 2005",
+        "Date": {
+          "Day": 21,
+          "Month": 5,
+          "Year": 2005
+        },
         "City": "Nijmegen"
       }
     },
@@ -170,7 +210,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "9 Mar 2008",
+        "Date": {
+          "Day": 9,
+          "Month": 3,
+          "Year": 2008
+        },
         "City": "Arnhem"
       }
     },
@@ -184,7 +228,11 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "",
-        "Date": "29 May 2005",
+        "Date": {
+          "Day": 29,
+          "Month": 5,
+          "Year": 2005
+        },
         "City": "Nijmegen"
       }
     },
@@ -198,7 +246,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "9 Feb 2008",
+        "Date": {
+          "Day": 9,
+          "Month": 2,
+          "Year": 2008
+        },
         "City": "Wapenveld"
       }
     },
@@ -212,7 +264,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "23 Jun 2018",
+        "Date": {
+          "Day": 23,
+          "Month": 6,
+          "Year": 2018
+        },
         "City": "Westervooort"
       }
     },
@@ -226,7 +282,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "Deel 1 KNZB zwemcompetitie landelijk B/C",
-        "Date": "29 Sep 2007",
+        "Date": {
+          "Day": 29,
+          "Month": 9,
+          "Year": 2007
+        },
         "City": "Doetinchem"
       }
     },
@@ -240,7 +300,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "23 Feb 2019",
+        "Date": {
+          "Day": 23,
+          "Month": 2,
+          "Year": 2019
+        },
         "City": "Westervoort"
       }
     },
@@ -254,8 +318,12 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "Open Nederlandse Masters Kampioenschappen 2018 lb",
-        "Date": "6 May 2018",
-        "City": "Den Haag"
+        "Date": {
+          "Day": 6,
+          "Month": 5,
+          "Year": 2018
+        },
+        "City": "Den\u00A0Haag"
       }
     },
     {
@@ -268,7 +336,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "9 Feb 2008",
+        "Date": {
+          "Day": 9,
+          "Month": 2,
+          "Year": 2008
+        },
         "City": "Wapenveld"
       }
     },
@@ -282,7 +354,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "17 Mar 2018",
+        "Date": {
+          "Day": 17,
+          "Month": 3,
+          "Year": 2018
+        },
         "City": "Wageningen"
       }
     },
@@ -296,7 +372,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "Deel 1 KNZB zwemcompetitie landelijk B/C",
-        "Date": "29 Sep 2007",
+        "Date": {
+          "Day": 29,
+          "Month": 9,
+          "Year": 2007
+        },
         "City": "Doetinchem"
       }
     },
@@ -310,7 +390,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "15 Sep 2007",
+        "Date": {
+          "Day": 15,
+          "Month": 9,
+          "Year": 2007
+        },
         "City": "Veenendaal"
       }
     },
@@ -324,8 +408,12 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "Open Nederlandse Masters Kampioenschappen 2018 lb",
-        "Date": "6 May 2018",
-        "City": "Den Haag"
+        "Date": {
+          "Day": 6,
+          "Month": 5,
+          "Year": 2018
+        },
+        "City": "Den\u00A0Haag"
       }
     },
     {
@@ -338,7 +426,11 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "5 Oct 2019",
+        "Date": {
+          "Day": 5,
+          "Month": 10,
+          "Year": 2019
+        },
         "City": "Westervoort"
       }
     },
@@ -352,8 +444,12 @@ This will write the following to the console:
       "PoolLength": 50,
       "Meet": {
         "Name": "Open Nederlandse Masters Kampioenschappen 2018 lb",
-        "Date": "6 May 2018",
-        "City": "Den Haag"
+        "Date": {
+          "Day": 6,
+          "Month": 5,
+          "Year": 2018
+        },
+        "City": "Den\u00A0Haag"
       }
     },
     {
@@ -366,12 +462,16 @@ This will write the following to the console:
       "PoolLength": 25,
       "Meet": {
         "Name": "",
-        "Date": "23 Feb 2019",
+        "Date": {
+          "Day": 23,
+          "Month": 2,
+          "Year": 2019
+        },
         "City": "Westervoort"
       }
     }
   ],
-  "LastUpdated": "2024-12-17T14:19:54.4286768+01:00",
+  "LastUpdated": "2025-03-18T08:55:31.7154767+01:00",
   "Id": "4046710",
   "FirstName": "Jordi",
   "LastName": "Jolink"

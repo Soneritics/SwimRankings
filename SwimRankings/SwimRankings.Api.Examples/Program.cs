@@ -9,4 +9,3 @@ var api = new SwimmerApi(httpClient);
 var swimmer = await api.GetAsync(swimrankingsId);
 
 Console.WriteLine(JsonSerializer.Serialize(swimmer, new JsonSerializerOptions { WriteIndented = true }));
-

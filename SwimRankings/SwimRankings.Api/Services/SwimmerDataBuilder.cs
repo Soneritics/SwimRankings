@@ -96,7 +96,7 @@ internal static class SwimmerDataBuilder
             Meet = new ()
             {
                 Name = WebUtility.HtmlDecode(meetName),
-                Date = WebUtility.HtmlDecode(meetDate),
+                Date = WebUtility.HtmlDecode(meetDate).ToDate(),
                 City = WebUtility.HtmlDecode(meetCity)
             }
         };
