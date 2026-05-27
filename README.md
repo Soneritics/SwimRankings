@@ -1,6 +1,15 @@
 # SwimRankings
 Download swimmer data directly from SwimRankings.com
 
+> [!WARNING]
+> ## Project Status: Archived
+>
+> This project is no longer actively maintained, since the website has been secured via Cloudflare.
+>
+> - The current implementation will no longer work
+> - Updates to make it work again are not planned
+
+
 Example code:
 ```csharp
 var swimrankingsId = "4046710";
