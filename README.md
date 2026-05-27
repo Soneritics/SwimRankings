@@ -1,6 +1,3 @@
-# SwimRankings
-Download swimmer data directly from SwimRankings.com
-
 > [!WARNING]
 > ## Project Status: Archived
 >
@@ -9,6 +6,11 @@ Download swimmer data directly from SwimRankings.com
 > - The current implementation will no longer work
 > - Updates to make it work again are not planned
 
+
+
+
+# SwimRankings
+Download swimmer data directly from SwimRankings.com
 
 Example code:
 ```csharp
